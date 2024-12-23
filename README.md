@@ -10,5 +10,4 @@ I am proficient in Angular and React (and Next.js), and I have a lot of experien
 
 Please, feel free to contact me on LinkedIn or by email if you have any questions or want to collaborate on an open source project.
 
-Have a great day,
-Alessio
+Have a wonderful and productive day 🏄
