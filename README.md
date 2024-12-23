@@ -1,6 +1,6 @@
-## Hey, I am Alessio! Welcome to my profile 👋
+## Heyy there 👋😎
 
-Hello and welcome (again) to my GitHub profile 🚀
+Hello, I am Alessio! Welcome to my GitHub profile 🚀
 
 At the time of the writing (23th of December), I'm following the fullstack learning path on frontend masters.
 I am really enjoying learning shell scripting, VIM (and Neovim), database fundamentals and server side JavaScript programming in Node.js!
