@@ -5,7 +5,7 @@ Welcome to my GitHub profile, it's good to have you here 🤓
 console.log("Hello, World!");
 ```
 
-### What I am working on right now
+### In what open source project I am working on right now
 I am currently working on the UI of [Kronos](https://github.com/ostafen/kronos), a powerful cron job webhook scheduler that allows you to define and manage scheduled tasks with ease.
 
 ### Current position and experience
