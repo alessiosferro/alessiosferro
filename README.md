@@ -1,6 +1,10 @@
 ## Hi, I am Alessio. Web Developer 👋😎
 Welcome to my GitHub profile, it's good to have you here 🤓
 
+```javascript
+console.log("Hello, World!");
+```
+
 ### What I am working on right now
 I am currently working on the UI of [Kronos](https://github.com/ostafen/kronos), a powerful cron job webhook scheduler that allows you to define and manage scheduled tasks with ease.
 
