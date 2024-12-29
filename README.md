@@ -2,7 +2,12 @@
 
 Welcome to my GitHub profile 🚀
 
-At the time of the writing (23th of December), I'm following the fullstack learning path on frontend masters.
+I am currently working on the UI of "Kronos", a powerful cron job webhook scheduler that allows you to define and manage scheduled tasks with ease.
+
+---
+
+23th of December
+I'm following the "fullstack learning path" on Frontend Masters.
 I am really enjoying learning shell scripting, VIM (and Neovim), database fundamentals and server side JavaScript programming in Node.js!
 
 I currently work as Senior Frontend Developer in The Wave Studio, a web agency based in Catania.
