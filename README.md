@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile 🚀
 
-I am currently working on the UI of "Kronos", a powerful cron job webhook scheduler that allows you to define and manage scheduled tasks with ease.
+I am currently working on the UI of [Kronos](https://github.com/ostafen/kronos), a powerful cron job webhook scheduler that allows you to define and manage scheduled tasks with ease.
 
 ---
 
