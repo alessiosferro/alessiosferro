@@ -6,7 +6,7 @@ I am currently working on the UI of [Kronos](https://github.com/ostafen/kronos),
 
 ---
 
-23th of December
+### Log, 23th of December
 I'm following the "fullstack learning path" on Frontend Masters.
 I am really enjoying learning shell scripting, VIM (and Neovim), database fundamentals and server side JavaScript programming in Node.js!
 
