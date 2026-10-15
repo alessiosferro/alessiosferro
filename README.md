@@ -2,7 +2,11 @@
 
 I'm a **software engineer based in Palermo, Italy**, with around seven years of professional experience in web development.
 
-My strongest background is in frontend engineering with TypeScript, JavaScript, React, and Angular. I'm now building on that experience through university study and practical projects in **artificial intelligence, developer tools, and native applications**.
+**I'm a creative person, and I love building things.** Developing applications is one of my favourite ways to express that creativity: taking an idea, shaping how it works, and turning it into something people can actually use.
+
+**AI has unlocked a new level of creative freedom for me.** Working with it helps me bring more of what I imagine to life, experiment with unfamiliar technologies, and explore ideas across web applications, native apps, games, and learning tools.
+
+My strongest background is in frontend engineering with **TypeScript, JavaScript, React, and Angular**. I'm now combining that experience with university studies in computer science and AI, and a growing range of personal projects.
 
 [Website](https://alessiosferro.dev) · [Public repositories](https://github.com/alessiosferro?tab=repositories)
 
@@ -25,10 +29,6 @@ A native, offline macOS encyclopedia for cryptography and coding theory, built w
 
 A personal, local **TypeScript MCP server** that connects ChatGPT to YouTube subscription management. It uses Google OAuth and requires explicit confirmation before subscribing or unsubscribing.
 
-### [Keyboard Geometry](https://github.com/alessiosferro/keyboard-geometry)
-
-A **React and TypeScript Chrome extension** for GeoGebra, with customizable keyboard shortcuts and searchable tool selection in English and Italian.
-
 ### [alessiosferro.dev](https://alessiosferro.dev)
 
 My personal website, built with **Astro**: a home for software experiments, writing, and university study resources.
@@ -49,7 +49,7 @@ I also contribute to **Kronos**, a lightweight cron scheduler with webhook suppo
 
 I care about maintainable code, clear abstractions, performance, and understanding how systems work beneath the interface.
 
-AI assistants are part of my development and learning workflow, from exploring ideas and prototyping applications to creating study tools. I want to understand and verify what I build, and keep strengthening the fundamentals behind it.
+I use AI as a creative collaborator throughout the process: exploring possibilities, shaping ideas, prototyping, and refining applications. I care about understanding and verifying what I build, and learning through the work itself.
 
 I'm particularly interested in useful software at the intersection of **software engineering, AI, and education**.
 
