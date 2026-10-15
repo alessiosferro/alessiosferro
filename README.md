@@ -1,90 +1,58 @@
 # Hi, I'm Alessio 👋
 
-I'm a Software Engineer with a strong background in frontend development and modern web technologies.
+I'm a **software engineer based in Palermo, Italy**, with around seven years of professional experience in web development.
 
-I enjoy building reliable, maintainable applications and understanding the systems behind them — from user interfaces and web performance to networking, backend architecture, distributed systems, and AI.
+My strongest background is in frontend engineering with TypeScript, JavaScript, React, and Angular. I'm now building on that experience through university study and practical projects in **artificial intelligence, developer tools, and native applications**.
 
-## About me
+[Website](https://alessiosferro.dev) · [Public repositories](https://github.com/alessiosferro?tab=repositories)
 
-* 💻 Software Engineer with professional experience in web development
-* ⚛️ Strong focus on **TypeScript, JavaScript, React, Angular, and Next.js**
-* 🧠 Interested in **software architecture, distributed systems, AI/ML, and robotics**
-* 🔍 I care about code quality, maintainability, performance, and understanding how things work under the hood
-* 📚 Always learning and experimenting with new technologies
+## What I'm working on
 
-## Core technologies
+- **Computer science & AI:** completing my BSc in Computer Science at the University of Catania while attending courses in the MSc in Computer Science and Artificial Intelligence at the University of Palermo.
+- **Learning tools:** turning cryptography, coding theory, and other course material into searchable study resources and interactive explanations.
+- **Game development:** building a 2D space shooter in Godot with C# for my university game development project.
+- **Tools for classmates:** developing shared study resources and a private class directory.
 
-**Languages**
+My current studies include knowledge representation and reasoning, cryptography and coding theory, and pattern discovery for life sciences. I'm also interested in robotics, electronics, and the connection between software and the physical world.
 
-TypeScript · JavaScript · HTML · CSS · SQL
+## Selected projects
 
-**Frontend**
+### [DECpedia](https://github.com/alessiosferro/DECpedia)
 
-React · Angular · Next.js · Vite
+A native, offline macOS encyclopedia for cryptography and coding theory, built with **Swift and SwiftUI**. It includes Italian and English explanations, mathematical notation, linked topics, exercises, personal notes, and bookmarks.
 
-**Backend & Data**
+### [YouTube MCP Curator](https://github.com/alessiosferro/youtube-mcp-curator)
 
-Node.js · REST APIs · PostgreSQL
+A personal, local **TypeScript MCP server** that connects ChatGPT to YouTube subscription management. It uses Google OAuth and requires explicit confirmation before subscribing or unsubscribing.
 
-**Engineering**
+### [Keyboard Geometry](https://github.com/alessiosferro/keyboard-geometry)
 
-Git · Testing · CI/CD · Docker · Web Performance · HTTP · Debugging
+A **React and TypeScript Chrome extension** for GeoGebra, with customizable keyboard shortcuts and searchable tool selection in English and Italian.
 
-## Featured work
+### [alessiosferro.dev](https://alessiosferro.dev)
 
-### Kronos
+My personal website, built with **Astro**: a home for software experiments, writing, and university study resources.
 
-Contributor to **Kronos**, a lightweight scheduler for cron jobs with webhook support.
+I also contribute to **Kronos**, a lightweight cron scheduler with webhook support, focusing on its interface and frontend architecture.
 
-I contribute primarily to the user interface and frontend architecture.
+## Technologies
 
-### Keyboard Geometry
+| Area | Technologies |
+| --- | --- |
+| Main languages | TypeScript, JavaScript, HTML, CSS, SQL |
+| Web interfaces | React, Angular, Next.js, Astro, Vite |
+| Backend & data | Node.js, REST APIs, PostgreSQL |
+| Tools & practices | Git, testing, CI/CD, Docker, web performance, debugging |
+| Recent project work | Swift, SwiftUI, C#, Godot, Model Context Protocol (MCP) |
 
-A Chrome extension written in TypeScript that adds keyboard shortcuts and productivity improvements to GeoGebra.
+## How I work
 
-### Web Architecture & Performance
+I care about maintainable code, clear abstractions, performance, and understanding how systems work beneath the interface.
 
-I experiment with modern web architectures and performance optimization, including:
+AI assistants are part of my development and learning workflow, from exploring ideas and prototyping applications to creating study tools. I want to understand and verify what I build, and keep strengthening the fundamentals behind it.
 
-* Client-Side Rendering
-* Server-Side Rendering
-* Static Site Generation
-* Islands Architecture
-* Partial Hydration
-* Core Web Vitals
-* Browser performance analysis
+I'm particularly interested in useful software at the intersection of **software engineering, AI, and education**.
 
-## Currently exploring
+## Connect
 
-I'm currently expanding my knowledge beyond traditional frontend development into:
-
-* Artificial Intelligence & Machine Learning
-* Distributed Systems
-* Networking
-* Backend Engineering
-* Robotics and Electronics
-* Software Architecture
-
-My goal is to combine strong software engineering fundamentals with modern AI-driven systems.
-
-## Engineering interests
-
-I particularly enjoy working on problems involving:
-
-* application architecture
-* performance optimization
-* debugging complex systems
-* developer tooling
-* distributed applications
-* human-computer interaction
-* AI-assisted software development
-
-## Philosophy
-
-I believe good software engineering is not about knowing the largest number of frameworks.
-
-It's about understanding problems deeply, choosing appropriate abstractions, writing maintainable code, and being able to learn new technologies when the problem requires them.
-
-## Get in touch
-
-Feel free to explore my repositories or reach out if you'd like to discuss software engineering, web development, AI, or open-source projects.
+Visit [alessiosferro.dev](https://alessiosferro.dev) or explore my repositories. I'm happy to talk about web development, AI, learning tools, and open-source collaboration.
